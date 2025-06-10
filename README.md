@@ -81,5 +81,6 @@ Used the following metrics for model evaluation:
 - Expand to multi-class prediction for different heart disease types
 
 ---
-##⚙️ Setup Install required packages:
+**⚙️ Setup**
+Install required packages:
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow pillow
