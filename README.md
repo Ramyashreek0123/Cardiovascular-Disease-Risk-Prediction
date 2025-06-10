@@ -3,7 +3,7 @@
 This project demonstrates **multi-algorithm classification** to predict **cardiovascular disease risk** using patient health data. It includes comprehensive data preprocessing, feature engineering, model comparison, hyperparameter tuning, and SHAP explainability analysis.
 
 ## 📁 Project Files
-* `cardiovascular_prediction.py`: Complete Python script with all ML pipeline steps
+* ML_PROJECT_CARDIO.ipynb: Jupyter Notebook containing all ML pipeline steps — from data loading to model evaluation and prediction
 * `cardio_train.csv`: Dataset containing patient health records (70K+ samples)
 
 ## 🗂 Dataset Overview
